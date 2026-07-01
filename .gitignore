@@ -44,7 +44,7 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-# Fotos personales - no subir al repositorio
+# no subir al repositorio
 assets/images/profile.png
 assets/images/iconoApp.png
 assets/images/mi_foto.png
